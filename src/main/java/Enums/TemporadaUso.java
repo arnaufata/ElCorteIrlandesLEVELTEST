@@ -1,5 +1,5 @@
 package Enums;
 
 public enum TemporadaUso {
-    PRIMAVERA, VERANO, OTONO, HINVIERNO;
+    PRIMAVERA, VERANO, OTONO, INVIERNO;
 }

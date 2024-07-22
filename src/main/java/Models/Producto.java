@@ -44,6 +44,10 @@ public class Producto {
         return stock;
     }
 
+    public void setStock(int stock) {
+        this.stock = stock;
+    }
+
     public LocalDate getFechaCompra() {
         return fechaCompra;
     }
